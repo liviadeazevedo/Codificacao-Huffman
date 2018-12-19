@@ -15,3 +15,5 @@ Para usá-lo, basta seguir os seguintes comandos:
     ./<nome-do-executável> <nome-destino-arquivo-compactado>
 
 OBS: O nome padrão de um arquivo descompactado é *TextoDescompactado.txt*.
+
+Para mais detalhes sobre o trabalho estão no relatório em PDF dentro do projeto.
