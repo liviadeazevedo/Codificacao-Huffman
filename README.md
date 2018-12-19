@@ -1,6 +1,6 @@
-# Compressao-Huffman
+# Codificacao-Huffman
 Trabalho feito durante a disciplina de Estrutura de Dados I, em 2015-2, pelos alunos Lívia de Azevedo e William Anderson.
-A tarefa consistiu em implementar um compressor de arquivos de texto utilizando a técnica da Compressão de Huffman.
+A tarefa consistiu em implementar um compressor de arquivos de texto utilizando a técnica da Codificação de Huffman.
 
 
 Para usá-lo, basta seguir os seguintes comandos:
